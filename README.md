@@ -4,7 +4,7 @@ Note: To use the application ensure you update sdk path in Demo_Android_Project/
 
 As the user you can create an account with user name, email, and simple password
 You can create and delete goals and log healthy habits in the daily diary.
-Please view link to video demo for more details: https://youtu.be/ZgjupJBcjRE 
+
 
 If you want another user to go through the trials or restart the trials please clear cache and storage to reset the saved values the user has logged.
 The user can create a new account again and continue.
